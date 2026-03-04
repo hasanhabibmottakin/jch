@@ -1,0 +1,128 @@
+[
+    {
+        "name": "Star Sports HD1",
+        "logo": "https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7430/567430-h",
+        "url": "https://livetv-push.hotstar.com/dash/live/2002464/sshd1livetvwv/master.mpd",
+        "key": "7718fbb3fb4ba78c07cc0f578744e6:624e24b1843b459fab0a949609416f0d"
+    },
+    {
+        "name": "Star Sports HD2",
+        "logo": "https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7432/567432-h",
+        "url": "https://livetv-push.hotstar.com/dash/live/2002465/sshd2livetvwv/master.mpd",
+        "key": "7718fbb3fb4ba78c07cc0f578744e6:624e24b1843b459fab0a949609416f0d"
+    },
+    {
+        "name": "Star Sports Hindi HD1",
+        "logo": "https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7433/567433-h",
+        "url": "https://livetv-push.hotstar.com/dash/live/2002466-b/sshindiwv/master.mpd",
+        "key": "7718fbb3fb4ba78c07cc0f578744e6:624e24b1843b459fab0a949609416f0d"
+    },
+    {
+        "name": "Star Sports Select HD1",
+        "logo": "https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7435/567435-h",
+        "url": "https://livetv-push.hotstar.com/dash/live/2002470-b/ssselecthd1wv/master.mpd",
+        "key": "7718fbb3fb4ba78c07cc0f578744e6:624e24b1843b459fab0a949609416f0d"
+    },
+    {
+        "name": "Star Sports Select HD2",
+        "logo": "https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7437/567437-h",
+        "url": "https://livetv-push.hotstar.com/dash/live/2002471/ssselecthd2wv/master.mpd",
+        "key": "7718fbb3fb4ba78c07cc0f578744e6:624e24b1843b459fab0a949609416f0d"
+    },
+    {
+        "name": "Star Suvarna",
+        "logo": "https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7429/567429-h",
+        "url": "https://livetv.hotstar.com/mp1/gec-india-1540057075/57ae0b6fa2b64281984574d406f9a696/index.mpd",
+        "key": "6fe347f558460398b9e42e1db50000:d630fb6469c3457e9d7c4bb863e1fef1"
+    },
+    {
+        "name": "Asianet Plus",
+        "logo": "https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7424/567424-h",
+        "url": "https://livetv.hotstar.com/mp1/gec-india-1540057042/65edc0359d4b49f7a42d06d4dfe8457b/index.mpd",
+        "key": "1a41f1f8c04e209dfcdfff2fdc0000:e0a5f3aa6afe414b902d6b729dd9b11b"
+    },
+    {
+        "name": "Star Pravah",
+        "logo": "https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/5868/595868-h",
+        "url": "https://livetv.hotstar.com/mp2/gec-india-1540057063/03a27d0f3ce347f0a3b4af1f6e62d4cc/index.mpd",
+        "key": "300f38d30d4829b2e525a037560000:706572c4aac0420f90a778e22116b320"
+    },
+    {
+        "name": "Star Maa Movies",
+        "logo": "https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7421/567421-h",
+        "url": "https://livetv.hotstar.com/mp1/gec-india-1540057036/9b002b1b2a3748b7a80a8512aef0bb8d/index.mpd",
+        "key": "b7ece05d094614a3839978b9330000:267ba7674fbd4076bbf797eaa1dd16d0"
+    },
+    {
+        "name": "Asianet",
+        "logo": "https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7420/567420-h",
+        "url": "https://livetv.hotstar.com/mp2/gec-india-1540057084/6569043a1d874fb49fc2cf2f273fe097/index.mpd",
+        "key": "d2d0a48be14cc3a9666d861dd60000:24e889ab81444af0bceb8f8b9a530b18"
+    },
+    {
+        "name": "Star Jalsha",
+        "logo": "https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7419/567419-h",
+        "url": "https://livetv.hotstar.com/mp1/gec-india-1540057072/61b6b96b069d42f9821b6ed85b51388e/index.mpd",
+        "key": "b8e23444db4af3b81dc2840c930000:d7c43050ca6d4e1ab3a296c91a4bb38e"
+    },
+    {
+        "name": "Star Maa",
+        "logo": "https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7418/567418-h",
+        "url": "https://livetv.hotstar.com/mp2/gec-india-1540057087/136d113eec07474e8836d7dc3dd0533b/index.mpd",
+        "key": "3dd22b45644e798457508fcdf70000:2c965c36ef5242f68a878952f993a591"
+    },
+    {
+        "name": "StarPlus",
+        "logo": "https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7415/567415-h",
+        "url": "https://livetv.hotstar.com/mp1/gec-india-1540057045/a73567ab8abd4680bc8206dd0c625cb0/index.mpd",
+        "key": "a6e6ef02f74d9bbce4640371d40000:7a89315d2ec84875901dce2d3044556c"
+    },
+    {
+        "name": "Star Vijay",
+        "logo": "https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7409/567409-h",
+        "url": "https://livetv.hotstar.com/mp1/gec-india-1540057060/15ef978ea9f449a2a8c97f7c05e618c5/index.mpd",
+        "key": "2811d06b3545a3a1f20c1b03700000:d3db194166ee44b3b5c9c719aa9cdd63"
+    },
+    {
+        "name": "Maa Gold",
+        "logo": "https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7408/567408-h",
+        "url": "https://livetv.hotstar.com/mp1/gec-india-1540057033/9680ef02a23e4d05a7d6afab10805ec4/index.mpd",
+        "key": "4cba34a7084eddbd6edf6a16460000:fd1cb8f19b2e42838d4ace714427ec76"
+    },
+    {
+        "name": "Star Utsav",
+        "logo": "https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7407/567407-h",
+        "url": "https://livetv.hotstar.com/mp1/gec-india-1540057078/6a9d9dbd5cd84dd3ba89856288c589b3/index.mpd",
+        "key": "f55cce9ba94df6b009f2433ef90000:6f33ae9e6fa24f95b82e538563b1cbaf"
+    },
+    {
+        "name": "Star Bharat",
+        "logo": "https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7406/567406-h",
+        "url": "https://livetv.hotstar.com/mp2/gec-india-1540057051/aa1fac3acfc244b4bbed73575a4a42da/index.mpd",
+        "key": "71050207424ba8b3e65c602d7e0000:8fdd910f634b40fdb5bfde551e08fd6c"
+    },
+    {
+        "name": "Jalsha Movies",
+        "logo": "https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7404/567404-h",
+        "url": "https://livetv.hotstar.com/mp2/gec-india-1540057027/39127b380adb405e8de434e10e20c3a6/index.mpd",
+        "key": "15368ea6bc4d76a1aebc22f4660000:e46451b6cdae433ab6e719f39dcc449e"
+    },
+    {
+        "name": "Star Gold",
+        "logo": "https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7403/567403-h",
+        "url": "https://livetv.hotstar.com/mp2/gec-india-1540057030/0bbcb34798fd454a81c3502fb652911e/index.mpd",
+        "key": "c8fd55071348e9992be759ceab0000:b894ad9ee2ad483fb2a5b71db0434bfc"
+    },
+    {
+        "name": "Asianet Movies",
+        "logo": "https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7400/567400-h",
+        "url": "https://livetv.hotstar.com/mp1/gec-india-1540057039/96454b89b9cd49df822108b6975a1a60/index.mpd",
+        "key": "e552bf422a4feeb017e38ba43e0000:9cf91549836b4ce98e9d8137591dd38e"
+    },
+    {
+        "name": "Star Suvarna Plus",
+        "logo": "https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7399/567399-h",
+        "url": "https://livetv.hotstar.com/mp2/gec-india-1540057081/5c13f17d142c4963a1c7bd54fcd421d5/index.mpd",
+        "key": "cedf61e9544d1da7db98277a290000:cea7c92c93f04c6daaf31e2fda5e6809"
+    }
+]
