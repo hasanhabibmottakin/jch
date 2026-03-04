@@ -14,6 +14,9 @@ $drm_data = [];
 $cookie_data = [];
 $current_channel = [];
 
+$hls_counter = 1;
+$drm_counter = 1;
+
 foreach ($lines as $line) {
     $line = trim($line);
     if (empty($line)) continue;
@@ -36,17 +39,21 @@ foreach ($lines as $line) {
 
         if (strpos($line, '.mpd') !== false || isset($current_channel['key'])) {
             $drm_data[] = [
+                'id' => sprintf('%03d', $drm_counter),
                 'name' => $current_channel['name'],
                 'logo' => $current_channel['logo'],
                 'url' => $current_channel['url'],
                 'key' => $current_channel['key'] ?? ''
             ];
+            $drm_counter++;
         } else {
             $hls_data[] = [
+                'id' => sprintf('%03d', $hls_counter),
                 'name' => $current_channel['name'],
                 'logo' => $current_channel['logo'],
                 'url' => $current_channel['url']
             ];
+            $hls_counter++;
         }
         $current_channel = [];
     }
