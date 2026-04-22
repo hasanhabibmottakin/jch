@@ -1,1 +1,5 @@
-[]
+{
+    "Cookie": "hdntl=exp=1776910725~acl=%2f*~id=3cd3d3559821966b4745bb3b584f0f86~data=hdntl~hmac=466a0e5de762aacbedf82dd28f359a818768dda8b606a1f00153ffdafbc03758",
+    "Origin": "https://www.hotstar.com",
+    "Referer": "https://www.hotstar.com/"
+}
