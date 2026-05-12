@@ -1,1 +1,296 @@
-[]
+[
+    {
+        "id": "001",
+        "name": "STAR VIJAY SUPER SINGER",
+        "logo": "https://img10.hotstar.com/image/upload/f_auto,q_90,w_384/sources/r1/cms/prod/1199/1752742701199-h",
+        "url": "https://livetv.hotstar.com/mp2/gec-india/c65ada10b4604667a9cd9495f1387e87/index_7.m3u8"
+    },
+    {
+        "id": "002",
+        "name": "STAR VIJAY CLASSIC",
+        "logo": "https://img10.hotstar.com/image/upload/f_auto,q_90,w_256/sources/r1/cms/prod/7405/1752743467405-h",
+        "url": "https://livetv.hotstar.com/mp2/gec-india/068ea5304f1841f4ac839311c7f539b8/index_7.m3u8"
+    },
+    {
+        "id": "003",
+        "name": "STAR VIJAY MOVIE TIME",
+        "logo": "https://img10.hotstar.com/image/upload/f_auto,q_90,w_256/sources/r1/cms/prod/4044/1752743564044-h",
+        "url": "https://livetv.hotstar.com/mp1/gec-india/4651958e6bd142a48cf1b512257b130a/index_7.m3u8"
+    },
+    {
+        "id": "004",
+        "name": "STAR VIJAY KALAKKAL COMEDY",
+        "logo": "https://img10.hotstar.com/image/upload/f_auto,q_90,w_256/sources/r1/cms/prod/8708/1752743198708-h",
+        "url": "https://livetv.hotstar.com/mp2/gec-india/bfe09a877cc4458dbc75f05b56d7e1ed/index_7.m3u8"
+    },
+    {
+        "id": "005",
+        "name": "STAR VIJAY FUN GAMES",
+        "logo": "https://img10.hotstar.com/image/upload/f_auto,q_90,w_256/sources/r1/cms/prod/3380/1752743343380-h",
+        "url": "https://livetv.hotstar.com/mp1/gec-india/04b034555d63400d9bc304bf91950874/index_7.m3u8"
+    },
+    {
+        "id": "006",
+        "name": "TATA IPL TV",
+        "logo": "https://img10.hotstar.com/image/upload/f_auto,q_90,w_384/sources/r1/cms/prod/2214/1750777602214-h",
+        "url": "https://livetv.hotstar.com/mp2/gec-india/faffc00f9fc7402db40108fd87c2d53e/index_7.m3u8"
+    },
+    {
+        "id": "007",
+        "name": "STAR SPORTS CRICKET CLASSIC",
+        "logo": "https://img10.hotstar.com/image/upload/f_auto,q_90,w_384/sources/r1/cms/prod/5745/1750779565745-h",
+        "url": "https://livetv.hotstar.com/mp1/gec-india-hotstartv/3e222014b2524730ad86d0a8457ca5c1/index_7.m3u8"
+    },
+    {
+        "id": "008",
+        "name": "T20s TV",
+        "logo": "https://img10.hotstar.com/image/upload/f_auto,q_90,w_384/sources/r1/cms/prod/3639/1756796893639-h",
+        "url": "https://livetv.hotstar.com/mp2/gec-india/60b51adb7eae4ae492e6ba6c156a1efe/index_7.m3u8"
+    },
+    {
+        "id": "009",
+        "name": "Star Sports 2 Hindi HD",
+        "logo": "https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/StarSports2HindiHD_Transparent_c72d6289-27aa-422d-8420-40135329a5b6.png",
+        "url": "https://jcevents.hotstar.com/bpk-tv/f0e3e64ae415771d8e460317ce97aa5e/Fallback/f0e3e64ae415771d8e460317ce97aa5e.m3u8"
+    },
+    {
+        "id": "010",
+        "name": "Star Sports 2 Hindi",
+        "logo": "https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/StarSports2Hindi_Transparent_e2c035d5-8451-4c1e-930f-4cb4449d1901.png",
+        "url": "https://jcevents.hotstar.com/bpk-tv/2c7182c8e6a22cfa6ebc02bbc9ed6dd0/Fallback/2c7182c8e6a22cfa6ebc02bbc9ed6dd0.m3u8"
+    },
+    {
+        "id": "011",
+        "name": "Star Sports 2 Telugu",
+        "logo": "https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/StarSports2Telugu_Transparent_5f794134-ddc1-457f-af2d-d4101d9f6711.png",
+        "url": "https://jcevents.hotstar.com/bpk-tv/034d1fb94cae87294a06f4dc266084b9/Fallback/034d1fb94cae87294a06f4dc266084b9.m3u8"
+    },
+    {
+        "id": "012",
+        "name": "Star Sports 2 Tamil",
+        "logo": "https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/StarSports2Tamil_Transparent_495e7bfa-b0b9-4055-a22e-56f3507ca469.png",
+        "url": "https://jcevents.hotstar.com/bpk-tv/4db6f833701e78ae4443cb268020f03b/Fallback/4db6f833701e78ae4443cb268020f03b.m3u8"
+    },
+    {
+        "id": "013",
+        "name": "Colors HD",
+        "logo": "https://v3img.voot.com/resizeMedium,w_1090,h_613/v3Storage/assets/colors-hindi--16x9-1714557869344.jpg",
+        "url": "https://jcevents.hotstar.com/bpk-tv/JC_ColorsHD/JCHLS/JC_ColorsHD.m3u8"
+    },
+    {
+        "id": "014",
+        "name": "Colors Rishtey",
+        "logo": "https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/collors-rishtey-live-channels-16x9-3-1642676080416-1674198105431-1697532377978.jpg",
+        "url": "https://jcevents.hotstar.com/bpk-tv/JC_ColorsRishtey/JCHLS/JC_ColorsRishtey.m3u8"
+    },
+    {
+        "id": "015",
+        "name": "Colors Bangla HD",
+        "logo": "https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/colors-bangla-new-16x9-4-1649659533344.jpg",
+        "url": "https://jcevents.hotstar.com/bpk-tv/JC_ColorsBanglaHD/JCHLS/JC_ColorsBanglaHD.m3u8"
+    },
+    {
+        "id": "016",
+        "name": "Colors Kannada HD",
+        "logo": "https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/colors-kannada-16x9-1677754085834.jpg",
+        "url": "https://jcevents.hotstar.com/bpk-tv/JC_ColorsKannadaHD/JCHLS/JC_ColorsKannadaHD.m3u8"
+    },
+    {
+        "id": "017",
+        "name": "Colors Marathi HD",
+        "logo": "https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/colors-marathi-live-channels-16x9-4-6-apr-1649257093359.jpg",
+        "url": "https://jcevents.hotstar.com/bpk-tv/JC_ColorsMarathiHD/JCHLS/JC_ColorsMarathiHD.m3u8"
+    },
+    {
+        "id": "018",
+        "name": "Colors Gujarati",
+        "logo": "https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/colors-gujarati-16x9-1713269620328.jpg",
+        "url": "https://jcevents.hotstar.com/bpk-tv/JC_ColorsGujarati/JCHLS/JC_ColorsGujarati.m3u8"
+    },
+    {
+        "id": "019",
+        "name": "Colors Tamil HD",
+        "logo": "https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/ct-1644165913136.jpg",
+        "url": "https://jcevents.hotstar.com/bpk-tv/JC_ColorsTamilHD/JCHLS/JC_ColorsTamilHD.m3u8"
+    },
+    {
+        "id": "020",
+        "name": "Colors Infinity HD",
+        "logo": "https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/colors-infinity-live-channels-16x9-1642496946057.jpg",
+        "url": "https://jcevents.hotstar.com/bpk-tv/JC_ColorsInfinityHD/JCHLS/JC_ColorsInfinityHD.m3u8"
+    },
+    {
+        "id": "021",
+        "name": "Colors Super",
+        "logo": "https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/colors-super-live-channels-16x9-4-1642744939924.jpg",
+        "url": "https://jcevents.hotstar.com/bpk-tv/JC_ColorsSuperKannada/JCHLS/JC_ColorsSuperKannada.m3u8"
+    },
+    {
+        "id": "022",
+        "name": "Colors Cineplex HD",
+        "logo": "https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/Live-Tv-Channels-colors-cineplex-1607514413063.jpg",
+        "url": "https://jcevents.hotstar.com/bpk-tv/JC_ColorsCineplexHD/JCHLS/JC_ColorsCineplexHD.m3u8"
+    },
+    {
+        "id": "023",
+        "name": "Colors Cineplex Superhits",
+        "logo": "https://v3img.voot.com/resizeMedium,w_960,h_540/v3Storage/assets/colors-cineplex-superhit%2016x9-1648793655358.jpg",
+        "url": "https://jcevents.hotstar.com/bpk-tv/JC_ColorsCineplexSuperhit/JCHLS/JC_ColorsCineplexSuperhit.m3u8"
+    },
+    {
+        "id": "024",
+        "name": "Colors Cineplex Bollywood",
+        "logo": "https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/cineplex-1713963820848.jpeg",
+        "url": "https://jcevents.hotstar.com/bpk-tv/JC_ColorsCineplexBollywood/JCHLS/JC_ColorsCineplexBollywood.m3u8"
+    },
+    {
+        "id": "025",
+        "name": "Colors Kannada Cinema",
+        "logo": "https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/colors-kannada-cinema-16x9-1713963481807.jpg",
+        "url": "https://jcevents.hotstar.com/bpk-tv/JC_ColorsKannadaCinema/JCHLS/JC_ColorsKannadaCinema.m3u8"
+    },
+    {
+        "id": "026",
+        "name": "MTV HD",
+        "logo": "https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/mtv-16x9-1714316345624.jpg",
+        "url": "https://jcevents.hotstar.com/bpk-tv/JC_MTVHD/JCHLS/JC_MTVHD.m3u8"
+    },
+    {
+        "id": "027",
+        "name": "Nick",
+        "logo": "https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets//16x9-1719554242246.jpg",
+        "url": "https://jcevents.hotstar.com/bpk-tv/JC_NickSD/JCHLS/JC_NickSD.m3u8"
+    },
+    {
+        "id": "028",
+        "name": "Sonic",
+        "logo": "https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/sonic-16x9-2-1626707025539.jpg",
+        "url": "https://jcevents.hotstar.com/bpk-tv/JC_SonicNick/JCHLS/JC_SonicNick.m3u8"
+    },
+    {
+        "id": "029",
+        "name": "Nick HD+",
+        "logo": "https://v3img.voot.com/resizeMedium,w_1090,h_613/v3Storage/assets/nick-hd-plus-live-channels-16x9-4-1642585145139.jpg",
+        "url": "https://jcevents.hotstar.com/bpk-tv/JC_NickHD/JCHLS/JC_NickHD.m3u8"
+    },
+    {
+        "id": "030",
+        "name": "Nick Jr",
+        "logo": "https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/nick-jr-16x9-2-1626708077243.jpg",
+        "url": "https://jcevents.hotstar.com/bpk-tv/JC_NickJr/JCHLS/JC_NickJr.m3u8"
+    },
+    {
+        "id": "031",
+        "name": "CNBC Awaaz",
+        "logo": "https://v3img.voot.com/resizeMedium,w_1090,h_613/v3Storage/assets/cnbc-awaaz-16x9-1702387934761.jpg",
+        "url": "https://jcevents.hotstar.com/bpk-tv/CNBC_Awaaz_voot_MOB/Fallback/CNBC_Awaaz_voot_MOB.m3u8"
+    },
+    {
+        "id": "032",
+        "name": "CNBC Bazaar",
+        "logo": "https://v3img.voot.com/resizeMedium,w_1090,h_613/v3Storage/assets/whatsapp16x9-1693491956187.jpg",
+        "url": "https://jcevents.hotstar.com/bpk-tv/CNBC_Bazaar_voot_MOB/Fallback/CNBC_Bazaar_voot_MOB.m3u8"
+    },
+    {
+        "id": "033",
+        "name": "CNBC TV18",
+        "logo": "https://v3img.voot.com/resizeMedium,w_1090,h_613/v3Storage/assets/cnbc18-shereen-bhan-16x9-2-1693479472079.jpg",
+        "url": "https://jcevents.hotstar.com/bpk-tv/CNBC_TV18_voot_MOB/Fallback/CNBC_TV18_voot_MOB.m3u8"
+    },
+    {
+        "id": "034",
+        "name": "News18 India",
+        "logo": "http://jiotv.catchup.cdn.jio.com/dare_images/images/IBN_7.png",
+        "url": "https://jcevents.hotstar.com/bpk-tv/News18_India_voot_MOB/Fallback/News18_India_voot_MOB.m3u8"
+    },
+    {
+        "id": "035",
+        "name": "CNN News18",
+        "logo": "http://jiotv.catchup.cdn.jio.com/dare_images/images/CNN_NEWS_18.png",
+        "url": "https://jcevents.hotstar.com/bpk-tv/CNN_News18_voot_MOB/Fallback/CNN_News18_voot_MOB.m3u8"
+    },
+    {
+        "id": "036",
+        "name": "News18 Tamil Nadu",
+        "logo": "http://jiotv.catchup.cdn.jio.com/dare_images/images/News_18_Tamilnadu.png",
+        "url": "https://jcevents.hotstar.com/bpk-tv/News18_Tamil_Nadu_voot_MOB/Fallback/News18_Tamil_Nadu_voot_MOB.m3u8"
+    },
+    {
+        "id": "037",
+        "name": "News18 Lokmat",
+        "logo": "http://jiotv.catchup.cdn.jio.com/dare_images/images/IBN_Lokmat.png",
+        "url": "https://jcevents.hotstar.com/bpk-tv/News18_Lokmat_voot_MOB/Fallback/News18_Lokmat_voot_MOB.m3u8"
+    },
+    {
+        "id": "038",
+        "name": "News18 Bangla",
+        "logo": "http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Bangla_News.png",
+        "url": "https://jcevents.hotstar.com/bpk-tv/News18_Bangla_voot_MOB/Fallback/News18_Bangla_voot_MOB.m3u8"
+    },
+    {
+        "id": "039",
+        "name": "News18 Kannada",
+        "logo": "http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Kannada_News.png",
+        "url": "https://jcevents.hotstar.com/bpk-tv/News18_Kannada_voot_MOB/Fallback/News18_Kannada_voot_MOB.m3u8"
+    },
+    {
+        "id": "040",
+        "name": "News18 Gujarati",
+        "logo": "http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_News_Gujarati.png",
+        "url": "https://jcevents.hotstar.com/bpk-tv/News18_Gujarati_voot_MOB/Fallback/News18_Gujarati_voot_MOB.m3u8"
+    },
+    {
+        "id": "041",
+        "name": "News18 Punjab Haryana",
+        "logo": "http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Haryana_and_HP_News.png",
+        "url": "https://jcevents.hotstar.com/bpk-tv/News18_Punjab_Haryana_HP_voot_MOB/Fallback/News18_Punjab_Haryana_HP_voot_MOB.m3u8"
+    },
+    {
+        "id": "042",
+        "name": "News18 Odia",
+        "logo": "http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_News_Oriya.png",
+        "url": "https://jcevents.hotstar.com/bpk-tv/News18_Odia_voot_MOB/Fallback/News18_Odia_voot_MOB.m3u8"
+    },
+    {
+        "id": "043",
+        "name": "News18 Assam North East",
+        "logo": "http://jiotv.catchup.cdn.jio.com/dare_images/images/News_18_Assam.png",
+        "url": "https://jcevents.hotstar.com/bpk-tv/News18_Assam_North_East_voot_MOB/Fallback/News18_Assam_North_East_voot_MOB.m3u8"
+    },
+    {
+        "id": "044",
+        "name": "News18 Kerala",
+        "logo": "http://jiotv.catchup.cdn.jio.com/dare_images/images/News_18_Kerala.png",
+        "url": "https://jcevents.hotstar.com/bpk-tv/News18_Kerala_voot_MOB/Fallback/News18_Kerala_voot_MOB.m3u8"
+    },
+    {
+        "id": "045",
+        "name": "News18 Rajasthan",
+        "logo": "http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_RAJASTHAN.png",
+        "url": "https://jcevents.hotstar.com/bpk-tv/News18_Rajasthan_voot_MOB/Fallback/News18_Rajasthan_voot_MOB.m3u8"
+    },
+    {
+        "id": "046",
+        "name": "News18 Bihar Jharkhand",
+        "logo": "http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_BIHAR.png",
+        "url": "https://jcevents.hotstar.com/bpk-tv/News18_Bihar_Jharkhand_voot_MOB/Fallback/News18_Bihar_Jharkhand_voot_MOB.m3u8"
+    },
+    {
+        "id": "047",
+        "name": "News18 MP Chhattisgarh",
+        "logo": "http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_MP.png",
+        "url": "https://jcevents.hotstar.com/bpk-tv/News18_MP_Chhattisgarh_voot_MOB/Fallback/News18_MP_Chhattisgarh_voot_MOB.m3u8"
+    },
+    {
+        "id": "048",
+        "name": "News18 UP Uttarakhand",
+        "logo": "http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_UP.png",
+        "url": "https://jcevents.hotstar.com/bpk-tv/News18_UP_Uttarakhand_voot_MOB/Fallback/News18_UP_Uttarakhand_voot_MOB.m3u8"
+    },
+    {
+        "id": "049",
+        "name": "News18 JKLH",
+        "logo": "http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Urdu.png",
+        "url": "https://jcevents.hotstar.com/bpk-tv/News18_Urdu_voot_MOB/Fallback/News18_Urdu_voot_MOB.m3u8"
+    }
+]
