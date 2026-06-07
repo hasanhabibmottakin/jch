@@ -1,1 +1,289 @@
-[]
+[
+    {
+        "id": "001",
+        "name": "Star Sports HD1",
+        "logo": "https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7430/567430-h",
+        "url": "https://livetv.hotstar.com/mp1/gec-india-1540065782/fce958099ca84fc3b980e651a4a668a8/index.mpd?aws.manifestfilter=video_height:0-1080&hdnea=st=1774349089~exp=1774349689~acl=/mp1/gec-india-1540065782/fce958099ca84fc3b980e651a4a668a8/*~data=ip=g5ksfVZjqCKXAZEtcK1vJyRGqmcGr91L4-userid=6jChzvAQHT8w6jMnm3npmCUEuwLehQZZWGFXtuWJDJWw-did=jx2IpXJXkCb2Vg350GQWi7CkAJhaxJUlHUW4PWyLelNh-cc=in-de=1-pl=web-ap=25.01.17.2-ut=paid-~hmac=b20f1f17b33b1b775c2e40349952a08cb204dbab0ea48309427f83af63e4868e",
+        "key": "7718fbb3fb4ba78c07cc0f578744e6:624e24b1843b459fab0a949609416f0d"
+    },
+    {
+        "id": "002",
+        "name": null,
+        "logo": null,
+        "url": "https://livetv-push.hotstar.com/dash/live/2002464/sshd1livetvwv/master.mpd",
+        "key": ""
+    },
+    {
+        "id": "003",
+        "name": "Star Sports HD2",
+        "logo": "https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7432/567432-h",
+        "url": "https://livetv.hotstar.com/mp2/gec-india-1540065785/a00717b1324f45eb814eec9e48a12db8/index.mpd?aws.manifestfilter=video_height:0-1080&hdnea=st=1774349093~exp=1774349693~acl=/mp2/gec-india-1540065785/a00717b1324f45eb814eec9e48a12db8/*~data=ip=g5ksfVZjqCKXAZEtcK1vJyRGqmcGr91L4-userid=6jChzvAQHT8w6jMnm3npmCUEuwLehQZZWGFXtuWJDJWw-did=jx2IpXJXkCb2Vg350GQWi7CkAJhaxJUlHUW4PWyLelNh-cc=in-de=1-pl=web-ap=25.01.17.2-ut=paid-~hmac=1266eb764ee4cb2726350e54a1e331d4e862934ed495db0948438b2335d02638",
+        "key": "7718fbb3fb4ba78c07cc0f578744e6:624e24b1843b459fab0a949609416f0d"
+    },
+    {
+        "id": "004",
+        "name": null,
+        "logo": null,
+        "url": "https://livetv-push.hotstar.com/dash/live/2002465/sshd2livetvwv/master.mpd",
+        "key": ""
+    },
+    {
+        "id": "005",
+        "name": "Star Sports Hindi HD1",
+        "logo": "https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7433/567433-h",
+        "url": "https://livetv.hotstar.com/mp1/gec-india-1540065788/fa6a4f0005ef4f90ab24484d165b0aaf/index.mpd?aws.manifestfilter=video_height:0-1080&hdnea=st=1774349081~exp=1774349681~acl=/mp1/gec-india-1540065788/fa6a4f0005ef4f90ab24484d165b0aaf/*~data=ip=g5ksfVZjqCKXAZEtcK1vJyRGqmcGr91L4-userid=6jChzvAQHT8w6jMnm3npmCUEuwLehQZZWGFXtuWJDJWw-did=jx2IpXJXkCb2Vg350GQWi7CkAJhaxJUlHUW4PWyLelNh-cc=in-de=1-pl=web-ap=25.01.17.2-ut=paid-~hmac=abeb7ffa23df70f8de07b0e1e609905539f18f5d56a2175aff8a1a6909d68c40",
+        "key": "7718fbb3fb4ba78c07cc0f578744e6:624e24b1843b459fab0a949609416f0d"
+    },
+    {
+        "id": "006",
+        "name": null,
+        "logo": null,
+        "url": "https://livetv-push.hotstar.com/dash/live/2002466-b/sshindiwv/master.mpd",
+        "key": ""
+    },
+    {
+        "id": "007",
+        "name": "Star Sports Select HD1",
+        "logo": "https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7435/567435-h",
+        "url": "https://livetv-push.hotstar.com/dash/live/2002470-b/ssselecthd1wv/master.mpd?partner=jio-stb&hdnea=st=1774349095~exp=1774349695~acl=/dash/live/2002470-b/ssselecthd1wv/*~data=ip=g5ksfVZjqCKXAZEtcK1vJyRGqmcGr91L4-userid=6jChzvAQHT8w6jMnm3npmCUEuwLehQZZWGFXtuWJDJWw-did=jx2IpXJXkCb2Vg350GQWi7CkAJhaxJUlHUW4PWyLelNh-cc=in-de=1-pl=web-ap=25.01.17.2-ut=paid-~hmac=4470006c670b712ecf817108e63205fca697adaf7083494c207d1324d4e3225a",
+        "key": "7718fbb3fb4ba78c07cc0f578744e6:624e24b1843b459fab0a949609416f0d"
+    },
+    {
+        "id": "008",
+        "name": null,
+        "logo": null,
+        "url": "https://livetv-push.hotstar.com/dash/live/2002470-b/ssselecthd1wv/master.mpd",
+        "key": ""
+    },
+    {
+        "id": "009",
+        "name": "Star Sports Select HD2",
+        "logo": "https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7437/567437-h",
+        "url": "https://livetv-push.hotstar.com/dash/live/2002471-b/ssselecthd2wv/master.mpd?partner=jio-stb&hdnea=st=1774349097~exp=1774349697~acl=/dash/live/2002471-b/ssselecthd2wv/*~data=ip=g5ksfVZjqCKXAZEtcK1vJyRGqmcGr91L4-userid=6jChzvAQHT8w6jMnm3npmCUEuwLehQZZWGFXtuWJDJWw-did=jx2IpXJXkCb2Vg350GQWi7CkAJhaxJUlHUW4PWyLelNh-cc=in-de=1-pl=web-ap=25.01.17.2-ut=paid-~hmac=5b767ea005cced248b5b4814cf80f9819cac8e32a71ae5d7eb051e5572b38acb",
+        "key": "7718fbb3fb4ba78c07cc0f578744e6:624e24b1843b459fab0a949609416f0d"
+    },
+    {
+        "id": "010",
+        "name": null,
+        "logo": null,
+        "url": "https://livetv-push.hotstar.com/dash/live/2002471/ssselecthd2wv/master.mpd",
+        "key": ""
+    },
+    {
+        "id": "011",
+        "name": "Star Suvarna",
+        "logo": "https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7429/567429-h",
+        "url": "https://livetv.hotstar.com/mp1/gec-india-1540057075/57ae0b6fa2b64281984574d406f9a696/index.mpd?aws.manifestfilter=video_height:0-1080&hdnea=st=1774349109~exp=1774349709~acl=/mp1/gec-india-1540057075/57ae0b6fa2b64281984574d406f9a696/*~data=ip=g5ksfVZjqCKXAZEtcK1vJyRGqmcGr91L4-userid=6jChzvAQHT8w6jMnm3npmCUEuwLehQZZWGFXtuWJDJWw-did=jx2IpXJXkCb2Vg350GQWi7CkAJhaxJUlHUW4PWyLelNh-cc=in-de=1-pl=web-ap=25.01.17.2-ut=paid-~hmac=fd1e88f94b0b73f3f14dc7b348a91a919865eccfb7677ef25b084183671c8521",
+        "key": "6fe347f558460398b9e42e1db50000:d630fb6469c3457e9d7c4bb863e1fef1"
+    },
+    {
+        "id": "012",
+        "name": null,
+        "logo": null,
+        "url": "https://livetv.hotstar.com/mp1/gec-india-1540057075/57ae0b6fa2b64281984574d406f9a696/index.mpd",
+        "key": ""
+    },
+    {
+        "id": "013",
+        "name": "Asianet Plus",
+        "logo": "https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7424/567424-h",
+        "url": "https://livetv.hotstar.com/mp1/gec-india-1540057042/65edc0359d4b49f7a42d06d4dfe8457b/index.mpd?aws.manifestfilter=video_height:0-1080&hdnea=st=1774349108~exp=1774349708~acl=/mp1/gec-india-1540057042/65edc0359d4b49f7a42d06d4dfe8457b/*~data=ip=g5ksfVZjqCKXAZEtcK1vJyRGqmcGr91L4-userid=6jChzvAQHT8w6jMnm3npmCUEuwLehQZZWGFXtuWJDJWw-did=jx2IpXJXkCb2Vg350GQWi7CkAJhaxJUlHUW4PWyLelNh-cc=in-de=1-pl=web-ap=25.01.17.2-ut=paid-~hmac=f5f77991a53a272850fa066a698f9c42d0ed96752f23b4015992fce8459ae1a2",
+        "key": "1a41f1f8c04e209dfcdfff2fdc0000:e0a5f3aa6afe414b902d6b729dd9b11b"
+    },
+    {
+        "id": "014",
+        "name": null,
+        "logo": null,
+        "url": "https://livetv.hotstar.com/mp1/gec-india-1540057042/65edc0359d4b49f7a42d06d4dfe8457b/index.mpd",
+        "key": ""
+    },
+    {
+        "id": "015",
+        "name": "Star Pravah",
+        "logo": "https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/5868/595868-h",
+        "url": "https://livetv.hotstar.com/mp2/gec-india-1540057063/03a27d0f3ce347f0a3b4af1f6e62d4cc/index.mpd?aws.manifestfilter=video_height:0-1080&hdnea=st=1774349106~exp=1774349706~acl=/mp2/gec-india-1540057063/03a27d0f3ce347f0a3b4af1f6e62d4cc/*~data=ip=g5ksfVZjqCKXAZEtcK1vJyRGqmcGr91L4-userid=6jChzvAQHT8w6jMnm3npmCUEuwLehQZZWGFXtuWJDJWw-did=jx2IpXJXkCb2Vg350GQWi7CkAJhaxJUlHUW4PWyLelNh-cc=in-de=1-pl=web-ap=25.01.17.2-ut=paid-~hmac=337d9dfbd6682e0a0a697513ea844776a9c615cd2bf58e1b61fee73a3b4e4483",
+        "key": "300f38d30d4829b2e525a037560000:706572c4aac0420f90a778e22116b320"
+    },
+    {
+        "id": "016",
+        "name": null,
+        "logo": null,
+        "url": "https://livetv.hotstar.com/mp2/gec-india-1540057063/03a27d0f3ce347f0a3b4af1f6e62d4cc/index.mpd",
+        "key": ""
+    },
+    {
+        "id": "017",
+        "name": "Star Maa Movies",
+        "logo": "https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7421/567421-h",
+        "url": "https://livetv.hotstar.com/mp1/gec-india-1540057036/9b002b1b2a3748b7a80a8512aef0bb8d/index.mpd?aws.manifestfilter=video_height:0-1080&hdnea=st=1774349114~exp=1774349714~acl=/mp1/gec-india-1540057036/9b002b1b2a3748b7a80a8512aef0bb8d/*~data=ip=g5ksfVZjqCKXAZEtcK1vJyRGqmcGr91L4-userid=6jChzvAQHT8w6jMnm3npmCUEuwLehQZZWGFXtuWJDJWw-did=jx2IpXJXkCb2Vg350GQWi7CkAJhaxJUlHUW4PWyLelNh-cc=in-de=1-pl=web-ap=25.01.17.2-ut=paid-~hmac=a0a63c265c6a67ecea334af49fc8c4b76cd25ea792a638b2dee08397fef83b77",
+        "key": "b7ece05d094614a3839978b9330000:267ba7674fbd4076bbf797eaa1dd16d0"
+    },
+    {
+        "id": "018",
+        "name": null,
+        "logo": null,
+        "url": "https://livetv.hotstar.com/mp1/gec-india-1540057036/9b002b1b2a3748b7a80a8512aef0bb8d/index.mpd",
+        "key": ""
+    },
+    {
+        "id": "019",
+        "name": "Asianet",
+        "logo": "https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7420/567420-h",
+        "url": "https://livetv.hotstar.com/mp2/gec-india-1540057084/6569043a1d874fb49fc2cf2f273fe097/index.mpd?aws.manifestfilter=video_height:0-1080&hdnea=st=1774349103~exp=1774349703~acl=/mp2/gec-india-1540057084/6569043a1d874fb49fc2cf2f273fe097/*~data=ip=g5ksfVZjqCKXAZEtcK1vJyRGqmcGr91L4-userid=6jChzvAQHT8w6jMnm3npmCUEuwLehQZZWGFXtuWJDJWw-did=jx2IpXJXkCb2Vg350GQWi7CkAJhaxJUlHUW4PWyLelNh-cc=in-de=1-pl=web-ap=25.01.17.2-ut=paid-~hmac=269db82c7fbf001b9a48af73b7686264f20b0bd3a648a14cae7120ba4dc3ed94",
+        "key": "d2d0a48be14cc3a9666d861dd60000:24e889ab81444af0bceb8f8b9a530b18"
+    },
+    {
+        "id": "020",
+        "name": null,
+        "logo": null,
+        "url": "https://livetv.hotstar.com/mp2/gec-india-1540057084/6569043a1d874fb49fc2cf2f273fe097/index.mpd",
+        "key": ""
+    },
+    {
+        "id": "021",
+        "name": "Star Jalsha",
+        "logo": "https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7419/567419-h",
+        "url": "https://livetv.hotstar.com/mp1/gec-india-1540057072/61b6b96b069d42f9821b6ed85b51388e/index.mpd?aws.manifestfilter=video_height:0-1080&hdnea=st=1774349099~exp=1774349699~acl=/mp1/gec-india-1540057072/61b6b96b069d42f9821b6ed85b51388e/*~data=ip=g5ksfVZjqCKXAZEtcK1vJyRGqmcGr91L4-userid=6jChzvAQHT8w6jMnm3npmCUEuwLehQZZWGFXtuWJDJWw-did=jx2IpXJXkCb2Vg350GQWi7CkAJhaxJUlHUW4PWyLelNh-cc=in-de=1-pl=web-ap=25.01.17.2-ut=paid-~hmac=023d607c46cfca2e4bbe1bfc837064a6139d3b8909ffb46882e86cb0a10932b5",
+        "key": "b8e23444db4af3b81dc2840c930000:d7c43050ca6d4e1ab3a296c91a4bb38e"
+    },
+    {
+        "id": "022",
+        "name": null,
+        "logo": null,
+        "url": "https://livetv.hotstar.com/mp1/gec-india-1540057072/61b6b96b069d42f9821b6ed85b51388e/index.mpd",
+        "key": ""
+    },
+    {
+        "id": "023",
+        "name": "Star Maa",
+        "logo": "https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7418/567418-h",
+        "url": "https://livetv.hotstar.com/mp2/gec-india-1540057087/136d113eec07474e8836d7dc3dd0533b/index.mpd?aws.manifestfilter=video_height:0-1080&hdnea=st=1774349105~exp=1774349705~acl=/mp2/gec-india-1540057087/136d113eec07474e8836d7dc3dd0533b/*~data=ip=g5ksfVZjqCKXAZEtcK1vJyRGqmcGr91L4-userid=6jChzvAQHT8w6jMnm3npmCUEuwLehQZZWGFXtuWJDJWw-did=jx2IpXJXkCb2Vg350GQWi7CkAJhaxJUlHUW4PWyLelNh-cc=in-de=1-pl=web-ap=25.01.17.2-ut=paid-~hmac=c1d002690e4643c8c38571733281cd4afd1986e6bc55d4ae1ced956cac341123",
+        "key": "3dd22b45644e798457508fcdf70000:2c965c36ef5242f68a878952f993a591"
+    },
+    {
+        "id": "024",
+        "name": null,
+        "logo": null,
+        "url": "https://livetv.hotstar.com/mp2/gec-india-1540057087/136d113eec07474e8836d7dc3dd0533b/index.mpd",
+        "key": ""
+    },
+    {
+        "id": "025",
+        "name": "StarPlus",
+        "logo": "https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7415/567415-h",
+        "url": "https://livetv.hotstar.com/mp1/gec-india-1540057045/a73567ab8abd4680bc8206dd0c625cb0/index.mpd?aws.manifestfilter=video_height:0-1080&hdnea=st=1774349084~exp=1774349684~acl=/mp1/gec-india-1540057045/a73567ab8abd4680bc8206dd0c625cb0/*~data=ip=g5ksfVZjqCKXAZEtcK1vJyRGqmcGr91L4-userid=6jChzvAQHT8w6jMnm3npmCUEuwLehQZZWGFXtuWJDJWw-did=jx2IpXJXkCb2Vg350GQWi7CkAJhaxJUlHUW4PWyLelNh-cc=in-de=1-pl=web-ap=25.01.17.2-ut=paid-~hmac=e27825f18d69b051722bddcb4f4919a6cbb03aa4a1c86932febb9b6d1e6f705d",
+        "key": "a6e6ef02f74d9bbce4640371d40000:7a89315d2ec84875901dce2d3044556c"
+    },
+    {
+        "id": "026",
+        "name": null,
+        "logo": null,
+        "url": "https://livetv.hotstar.com/mp1/gec-india-1540057045/a73567ab8abd4680bc8206dd0c625cb0/index.mpd",
+        "key": ""
+    },
+    {
+        "id": "027",
+        "name": "Star Vijay",
+        "logo": "https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7409/567409-h",
+        "url": "https://livetv.hotstar.com/mp1/gec-india-1540057060/15ef978ea9f449a2a8c97f7c05e618c5/index.mpd?aws.manifestfilter=video_height:0-1080&hdnea=st=1774349102~exp=1774349702~acl=/mp1/gec-india-1540057060/15ef978ea9f449a2a8c97f7c05e618c5/*~data=ip=g5ksfVZjqCKXAZEtcK1vJyRGqmcGr91L4-userid=6jChzvAQHT8w6jMnm3npmCUEuwLehQZZWGFXtuWJDJWw-did=jx2IpXJXkCb2Vg350GQWi7CkAJhaxJUlHUW4PWyLelNh-cc=in-de=1-pl=web-ap=25.01.17.2-ut=paid-~hmac=f7b54b77033f85fb73a8d111a969efa87448b0879bbc7e23f404aa5bcddda204",
+        "key": "2811d06b3545a3a1f20c1b03700000:d3db194166ee44b3b5c9c719aa9cdd63"
+    },
+    {
+        "id": "028",
+        "name": "Maa Gold",
+        "logo": "https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7408/567408-h",
+        "url": "https://livetv.hotstar.com/mp1/gec-india-1540057033/9680ef02a23e4d05a7d6afab10805ec4/index.mpd?aws.manifestfilter=video_height:0-1080&hdnea=st=1774349113~exp=1774349713~acl=/mp1/gec-india-1540057033/9680ef02a23e4d05a7d6afab10805ec4/*~data=ip=g5ksfVZjqCKXAZEtcK1vJyRGqmcGr91L4-userid=6jChzvAQHT8w6jMnm3npmCUEuwLehQZZWGFXtuWJDJWw-did=jx2IpXJXkCb2Vg350GQWi7CkAJhaxJUlHUW4PWyLelNh-cc=in-de=1-pl=web-ap=25.01.17.2-ut=paid-~hmac=92eff19ceac85ffeacc1ee179d67d21c05f6006bed9e29517f429a8643d9005c",
+        "key": "4cba34a7084eddbd6edf6a16460000:fd1cb8f19b2e42838d4ace714427ec76"
+    },
+    {
+        "id": "029",
+        "name": null,
+        "logo": null,
+        "url": "https://livetv.hotstar.com/mp1/gec-india-1540057033/9680ef02a23e4d05a7d6afab10805ec4/index.mpd",
+        "key": ""
+    },
+    {
+        "id": "030",
+        "name": "Star Utsav",
+        "logo": "https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7407/567407-h",
+        "url": "https://livetv.hotstar.com/mp1/gec-india-1540057078/6a9d9dbd5cd84dd3ba89856288c589b3/index.mpd?aws.manifestfilter=video_height:0-1080&hdnea=st=1774349087~exp=1774349687~acl=/mp1/gec-india-1540057078/6a9d9dbd5cd84dd3ba89856288c589b3/*~data=ip=g5ksfVZjqCKXAZEtcK1vJyRGqmcGr91L4-userid=6jChzvAQHT8w6jMnm3npmCUEuwLehQZZWGFXtuWJDJWw-did=jx2IpXJXkCb2Vg350GQWi7CkAJhaxJUlHUW4PWyLelNh-cc=in-de=1-pl=web-ap=25.01.17.2-ut=paid-~hmac=6fef543ab1e24f3cc63a4374aa15a8fba9ec3956ea6e07e9448a34d943140c78",
+        "key": "f55cce9ba94df6b009f2433ef90000:6f33ae9e6fa24f95b82e538563b1cbaf"
+    },
+    {
+        "id": "031",
+        "name": null,
+        "logo": null,
+        "url": "https://livetv.hotstar.com/mp1/gec-india-1540057078/6a9d9dbd5cd84dd3ba89856288c589b3/index.mpd",
+        "key": ""
+    },
+    {
+        "id": "032",
+        "name": "Star Bharat",
+        "logo": "https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7406/567406-h",
+        "url": "https://livetv.hotstar.com/mp2/gec-india-1540057051/aa1fac3acfc244b4bbed73575a4a42da/index.mpd?aws.manifestfilter=video_height:0-1080&hdnea=st=1774349086~exp=1774349686~acl=/mp2/gec-india-1540057051/aa1fac3acfc244b4bbed73575a4a42da/*~data=ip=g5ksfVZjqCKXAZEtcK1vJyRGqmcGr91L4-userid=6jChzvAQHT8w6jMnm3npmCUEuwLehQZZWGFXtuWJDJWw-did=jx2IpXJXkCb2Vg350GQWi7CkAJhaxJUlHUW4PWyLelNh-cc=in-de=1-pl=web-ap=25.01.17.2-ut=paid-~hmac=fcc143e4bb1f2b60b15285c068f735fd3236b25599956a9e3d9d1cc023ffee93",
+        "key": "71050207424ba8b3e65c602d7e0000:8fdd910f634b40fdb5bfde551e08fd6c"
+    },
+    {
+        "id": "033",
+        "name": null,
+        "logo": null,
+        "url": "https://livetv.hotstar.com/mp2/gec-india-1540057051/aa1fac3acfc244b4bbed73575a4a42da/index.mpd",
+        "key": ""
+    },
+    {
+        "id": "034",
+        "name": "Jalsha Movies",
+        "logo": "https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7404/567404-h",
+        "url": "https://livetv.hotstar.com/mp2/gec-india-1540057027/39127b380adb405e8de434e10e20c3a6/index.mpd?_=0&aws.manifestfilter=video_height:0-1080&hdnea=st=1774349116~exp=1774349716~acl=/mp2/gec-india-1540057027/39127b380adb405e8de434e10e20c3a6/*~data=ip=g5ksfVZjqCKXAZEtcK1vJyRGqmcGr91L4-userid=6jChzvAQHT8w6jMnm3npmCUEuwLehQZZWGFXtuWJDJWw-did=jx2IpXJXkCb2Vg350GQWi7CkAJhaxJUlHUW4PWyLelNh-cc=in-de=1-pl=web-ap=25.01.17.2-ut=paid-~hmac=e6cd3bb3200648b572905c1d01c3e16919f08976ccad99536f2261c832bd5167",
+        "key": "15368ea6bc4d76a1aebc22f4660000:e46451b6cdae433ab6e719f39dcc449e"
+    },
+    {
+        "id": "035",
+        "name": null,
+        "logo": null,
+        "url": "https://livetv.hotstar.com/mp2/gec-india-1540057027/39127b380adb405e8de434e10e20c3a6/index.mpd",
+        "key": ""
+    },
+    {
+        "id": "036",
+        "name": "Star Gold",
+        "logo": "https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7403/567403-h",
+        "url": "https://livetv.hotstar.com/mp2/gec-india-1540057030/0bbcb34798fd454a81c3502fb652911e/index.mpd?aws.manifestfilter=video_height:0-1080&hdnea=st=1774349092~exp=1774349692~acl=/mp2/gec-india-1540057030/0bbcb34798fd454a81c3502fb652911e/*~data=ip=g5ksfVZjqCKXAZEtcK1vJyRGqmcGr91L4-userid=6jChzvAQHT8w6jMnm3npmCUEuwLehQZZWGFXtuWJDJWw-did=jx2IpXJXkCb2Vg350GQWi7CkAJhaxJUlHUW4PWyLelNh-cc=in-de=1-pl=web-ap=25.01.17.2-ut=paid-~hmac=8ba2c475661869801ae00c5fa2b0e29453423d50e1cb2e4b13cd4570afc69ad8",
+        "key": "c8fd55071348e9992be759ceab0000:b894ad9ee2ad483fb2a5b71db0434bfc"
+    },
+    {
+        "id": "037",
+        "name": null,
+        "logo": null,
+        "url": "https://livetv.hotstar.com/mp2/gec-india-1540057030/0bbcb34798fd454a81c3502fb652911e/index.mpd",
+        "key": ""
+    },
+    {
+        "id": "038",
+        "name": "Asianet Movies",
+        "logo": "https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7400/567400-h",
+        "url": "https://livetv.hotstar.com/mp1/gec-india-1540057039/96454b89b9cd49df822108b6975a1a60/index.mpd?aws.manifestfilter=video_height:0-1080&hdnea=st=1774349118~exp=1774349718~acl=/mp1/gec-india-1540057039/96454b89b9cd49df822108b6975a1a60/*~data=ip=g5ksfVZjqCKXAZEtcK1vJyRGqmcGr91L4-userid=6jChzvAQHT8w6jMnm3npmCUEuwLehQZZWGFXtuWJDJWw-did=jx2IpXJXkCb2Vg350GQWi7CkAJhaxJUlHUW4PWyLelNh-cc=in-de=1-pl=web-ap=25.01.17.2-ut=paid-~hmac=2493dbafd965f18de4af6ce782ee6c6294147ca643e7767de643466656dd0c68",
+        "key": "e552bf422a4feeb017e38ba43e0000:9cf91549836b4ce98e9d8137591dd38e"
+    },
+    {
+        "id": "039",
+        "name": null,
+        "logo": null,
+        "url": "https://livetv.hotstar.com/mp1/gec-india-1540057039/96454b89b9cd49df822108b6975a1a60/index.mpd",
+        "key": ""
+    },
+    {
+        "id": "040",
+        "name": "Star Suvarna Plus",
+        "logo": "https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7399/567399-h",
+        "url": "https://livetv.hotstar.com/mp2/gec-india-1540057081/5c13f17d142c4963a1c7bd54fcd421d5/index.mpd?aws.manifestfilter=video_height:0-1080&hdnea=st=1774349120~exp=1774349720~acl=/mp2/gec-india-1540057081/5c13f17d142c4963a1c7bd54fcd421d5/*~data=ip=g5ksfVZjqCKXAZEtcK1vJyRGqmcGr91L4-userid=6jChzvAQHT8w6jMnm3npmCUEuwLehQZZWGFXtuWJDJWw-did=jx2IpXJXkCb2Vg350GQWi7CkAJhaxJUlHUW4PWyLelNh-cc=in-de=1-pl=web-ap=25.01.17.2-ut=paid-~hmac=39dd3aa7a8cb2ac5f9d2609cea9f0db0692da8452ac766b47204223021a05c18",
+        "key": "cedf61e9544d1da7db98277a290000:cea7c92c93f04c6daaf31e2fda5e6809"
+    },
+    {
+        "id": "041",
+        "name": null,
+        "logo": null,
+        "url": "https://livetv.hotstar.com/mp2/gec-india-1540057081/5c13f17d142c4963a1c7bd54fcd421d5/index.mpd",
+        "key": ""
+    }
+]
